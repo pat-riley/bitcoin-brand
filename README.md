@@ -39,24 +39,6 @@ The Bitcoin Orange is PMS 130. Please use official Pantone Matching System swatc
 |  0   |   32    |  100   |      0      |
 
 
-##Bitcoin Logo
-
-**Dark logo** (for use on light backgrounds): <br>
-RGB: [png](/bitcoin-logo-dark.png), [svg](/bitcoin-logo-dark.svg) <br>
-CMYK: [eps](/bitcoin-logo-dark.eps), [ai](/bitcoin-logo-dark.ai) <br>
-
-**Light logo** (for use on dark backgrounds): <br>
-RGB: [png](/bitcoin-logo-light.png), [svg](/bitcoin-logo-light.svg) <br>
-CMYK: [eps](/bitcoin-logo-light.eps), [ai](/bitcoin-logo-light.ai) <br>
-
-![Bitcoin Logo](/bitcoin-logo-dark.png "Bitcoin Logo")
-
-##Bitcoin Icon
-RGB: [png](/bitcoin.png), [svg](/bitcoin.svg) <br>
-CMYK: [pdf](/bitcoin.pdf), [eps](/bitcoin.eps), [ai](/bitcoin.ai)
-
-![Bitcoin Icon](/bitcoin.png "Bitcoin Icon")
-
 ##License
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
